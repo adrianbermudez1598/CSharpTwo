@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\C#\ProjectOne\obj\Debug\ProjectOne.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\C#\ProjectOne\obj\Debug\ProjectOne.Form1.resources
+C:\Users\Admin\Documents\C#\ProjectOne\obj\Debug\ProjectOne.Properties.Resources.resources
+C:\Users\Admin\Documents\C#\ProjectOne\obj\Debug\ProjectOne.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\C#\ProjectOne\obj\Debug\ProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C#\ProjectOne\bin\Debug\ProjectOne.exe.config
+C:\Users\Admin\Documents\C#\ProjectOne\bin\Debug\ProjectOne.exe
+C:\Users\Admin\Documents\C#\ProjectOne\bin\Debug\ProjectOne.pdb
+C:\Users\Admin\Documents\C#\ProjectOne\obj\Debug\ProjectOne.exe
+C:\Users\Admin\Documents\C#\ProjectOne\obj\Debug\ProjectOne.pdb
